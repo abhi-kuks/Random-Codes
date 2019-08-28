@@ -35,6 +35,9 @@ class Bar:
 an_obj=Bar()
 an_obj.hi()
 
+# --------------------------------------------------------------------------------------------------------------
+# More Comprehensive understnding of @classmethods using the example given below!!!
+
 
 
 class FixedFloat:
